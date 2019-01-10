@@ -1,9 +1,7 @@
 # 2018_prog_II
 
-To init:
->npm init
-
->npm install --save express socket.io mongoose
+To install
+>npm install
 
 To start:
 >node server.js
